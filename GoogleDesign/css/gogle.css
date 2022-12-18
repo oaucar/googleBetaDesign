@@ -1,0 +1,95 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 24%;
+}
+
+.container{
+    margin: 3px auto auto;
+    padding: 5px;
+    text-align: center;
+}
+.bgc-white{
+    background-color: white;
+}
+.bgc-lg-grey{
+    background-color: rgb(241, 241, 241);
+}
+
+.search-box{
+    border-radius: 2px;
+    height: 22px;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    margin: 0px auto 4px auto;
+    text-align: left;
+
+}
+.box-width{
+    width: 500px;
+}
+.box-width2{
+    width: 300px;
+    margin: 3px auto;
+}
+
+
+.lbl{
+    margin: 1px;
+}
+.btn1{
+    margin: 0px;
+    text-decoration: none;
+    color: black;
+}
+.btn-shape{
+    padding: 1px 5px;
+    border-radius: 2px;
+    border-width: thin;
+    border-color: black;
+    border-style: solid;
+    background-color: rgb(241, 241, 241);
+}
+.clear{
+    clear: both;
+}
+.bgc-aqm{
+    background-color: aquamarine;
+}
+.cont-widthAuto1{
+    width: 35%;
+    height: 87px;
+
+}
+.cont-widthAuto2{
+    width: 29.55%;
+    height: 87px;
+}
+
+.container-alt1{
+    float: left;
+    text-align: center;
+    margin: 1px;
+    vertical-align: middle;
+    
+}
+.getCenter{
+    margin: 0px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0px;
+    height: auto;
+}
+.copyright{
+    padding: 25px;
+    text-align: center;
+
+}
